@@ -1,0 +1,451 @@
+Setup done
+Scan start
+Scan done
+12 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -48 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -55 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -68 |  1 | WPA2
+9 | WT_CBD98D                        |  -70 |  1 | open
+10 | TP-Link_2998                     |  -71 |  6 | WPA2
+11 | Tenda_4246C0                     |  -87 | 11 | WPA+WPA2
+12 | PD17182A5C20BName71820D040180    |  -92 | 11 | WEP
+Scan start
+Scan done
+13 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -42 |  1 | WPA2
+2 | AntenaC                          |  -49 |  1 | WPA2
+3 | TP-Link_8704                     |  -52 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -70 |  1 | WPA2
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -74 |  6 | WPA2
+11 | Tenda_4246C0                     |  -89 | 11 | WPA+WPA2
+12 | B1_R1                            |  -91 | 11 | open
+13 | PD17182A5C20BName71820D040180    |  -95 | 11 | WEP
+Scan start
+Scan done
+11 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -43 |  1 | WPA2
+2 | AntenaC                          |  -49 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | WT_CBD98D                        |  -69 |  1 | open
+9 | AntenaB                          |  -69 |  1 | WPA2
+10 | TP-Link_2998                     |  -74 |  6 | WPA2
+11 | PD17182A5C20BName71820D040180    |  -93 | 11 | WEP
+Scan start
+Scan done
+16 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -47 |  1 | WPA2
+3 | TP-Link_8704                     |  -55 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | WT_CBD98D                        |  -69 |  1 | open
+9 | AntenaB                          |  -70 |  1 | WPA2
+10 | TP-Link_2998                     |  -72 |  6 | WPA2
+11 | IZZI-317A                        |  -87 |  6 | WPA+WPA2
+12 | Tenda_4246C0                     |  -90 | 11 | WPA+WPA2
+13 | Depa_707                         |  -92 |  1 | WPA+WPA2
+14 | Barrio_Tec                       |  -92 |  1 | WPA+WPA2
+15 | B1_R1                            |  -92 | 11 | open
+16 | PD17182A5C20BName71820D040180    |  -94 | 11 | WEP
+Scan start
+Scan done
+14 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -49 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | WT_CBD98D                        |  -70 |  1 | open
+9 | AntenaB                          |  -71 |  1 | WPA2
+10 | TP-Link_2998                     |  -72 |  6 | WPA2
+11 | Totalplay-723A                   |  -86 |  8 | WPA2
+12 | Depa_705                         |  -91 |  1 | WPA+WPA2
+13 | PD17182A5C20BName71820D040180    |  -91 | 11 | WEP
+14 | Tenda_4246C0                     |  -91 | 11 | WPA+WPA2
+Scan start
+Scan done
+15 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -50 |  1 | WPA2
+3 | TP-Link_8704                     |  -52 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | WT_CBD98D                        |  -70 |  1 | open
+9 | AntenaB                          |  -71 |  1 | WPA2
+10 | TP-Link_2998                     |  -72 |  6 | WPA2
+11 | Depa_705                         |  -90 |  1 | WPA+WPA2
+12 | IZZI-317A                        |  -90 |  6 | WPA+WPA2
+13 | Depa_707                         |  -91 |  1 | WPA+WPA2
+14 | Barrio_Tec                       |  -92 |  1 | WPA+WPA2
+15 | B1_R1                            |  -94 | 11 | open
+Scan start
+Scan done
+13 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -42 |  1 | WPA2
+2 | AntenaC                          |  -48 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | WT_CBD98D                        |  -69 |  1 | open
+9 | AntenaB                          |  -72 |  1 | WPA2
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | Tenda_4246C0                     |  -91 | 11 | WPA+WPA2
+12 | Depa_705                         |  -92 |  1 | WPA+WPA2
+13 | PD17182A5C20BName71820D040180    |  -95 | 11 | WEP
+Scan start
+Scan done
+15 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -45 |  1 | WPA2
+2 | AntenaC                          |  -49 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -70 |  1 | WPA2
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | Tenda_4246C0                     |  -89 | 11 | WPA+WPA2
+12 | 8814 Internet y Entretenimiento  |  -92 | 10 | WPA2
+13 | Barrio_Tec                       |  -93 |  1 | WPA+WPA2
+14 | PD17182A5C20BName71820D040180    |  -93 | 11 | WEP
+15 | Depa_705                         |  -95 |  1 | WPA+WPA2
+Scan start
+Scan done
+15 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -47 |  1 | WPA2
+3 | TP-Link_8704                     |  -53 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -71 |  1 | WPA2
+9 | WT_CBD98D                        |  -72 |  1 | open
+10 | TP-Link_2998                     |  -72 |  6 | WPA2
+11 | Totalplay-723A                   |  -85 |  8 | WPA2
+12 | IZZI-72C8                        |  -90 |  4 | WPA+WPA2
+13 | IZZI-317A                        |  -90 |  6 | WPA+WPA2
+14 | PD17182A5C20BName71820D040180    |  -92 | 11 | WEP
+15 | Depa_709                         |  -93 |  1 | WPA+WPA2
+Scan start
+Scan done
+15 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -50 |  1 | WPA2
+3 | TP-Link_8704                     |  -52 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -71 |  1 | WPA2
+9 | WT_CBD98D                        |  -72 |  1 | open
+10 | TP-Link_2998                     |  -72 |  6 | WPA2
+11 | Depa_709                         |  -89 |  1 | WPA+WPA2
+12 | IZZI-317A                        |  -90 |  6 | WPA+WPA2
+13 | Barrio_Tec                       |  -91 |  1 | WPA+WPA2
+14 | Depa_705                         |  -91 |  1 | WPA+WPA2
+15 | Depa_707                         |  -91 |  1 | WPA+WPA2
+Scan start
+Scan done
+18 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -43 |  1 | WPA2
+2 | AntenaC                          |  -46 |  1 | WPA2
+3 | TP-Link_8704                     |  -55 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | TP-Link_2998                     |  -69 |  6 | WPA2
+9 | AntenaB                          |  -70 |  1 | WPA2
+10 | WT_CBD98D                        |  -72 |  1 | open
+11 | Totalplay-723A                   |  -85 |  8 | WPA2
+12 | IZZI-317A                        |  -90 |  6 | WPA+WPA2
+13 | Tenda_4246C0                     |  -90 | 11 | WPA+WPA2
+14 | Barrio_Tec                       |  -91 |  1 | WPA+WPA2
+15 | Depa_705                         |  -91 |  1 | WPA+WPA2
+16 | PD17182A5C20BName71820D040180    |  -93 | 11 | WEP
+17 | LEDnet00332BBA8E                 |  -94 |  1 | open
+18 | B1_R1                            |  -94 | 11 | open
+Scan start
+Scan done
+16 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -43 |  1 | WPA2
+2 | AntenaC                          |  -47 |  1 | WPA2
+3 | TP-Link_8704                     |  -52 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | AntenaB                          |  -65 |  1 | WPA2
+6 | Tec-Visitantes                   |  -65 |  6 | open
+7 | Tec                              |  -66 |  6 | WPA2-EAP
+8 | Tec-IoT                          |  -66 |  6 | WPA2
+9 | WT_CBD98D                        |  -69 |  1 | open
+10 | TP-Link_2998                     |  -74 |  6 | WPA2
+11 | Barrio_Tec                       |  -90 |  1 | WPA+WPA2
+12 | Depa_705                         |  -90 |  1 | WPA+WPA2
+13 | Depa_709                         |  -91 |  1 | WPA+WPA2
+14 | IZZI-72C8                        |  -93 |  4 | WPA+WPA2
+15 | PD17182A5C20BName71820D040180    |  -94 | 11 | WEP
+16 | B1_R1                            |  -95 | 11 | open
+Scan start
+Scan done
+15 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -46 |  1 | WPA2
+2 | AntenaC                          |  -48 |  1 | WPA2
+3 | TP-Link_8704                     |  -54 |  2 | WPA2
+4 | AntenaA                          |  -58 |  1 | WPA2
+5 | Tec                              |  -65 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | WT_CBD98D                        |  -68 |  1 | open
+9 | AntenaB                          |  -70 |  1 | WPA2
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | IZZI-317A                        |  -88 |  6 | WPA+WPA2
+12 | Barrio_Tec                       |  -91 |  1 | WPA+WPA2
+13 | B1_R1                            |  -91 | 11 | open
+14 | Depa_705                         |  -92 |  1 | WPA+WPA2
+15 | PD17182A5C20BName71820D040180    |  -92 | 11 | WEP
+Scan start
+Scan done
+15 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -46 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -69 |  1 | WPA2
+9 | WT_CBD98D                        |  -70 |  1 | open
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | Totalplay-723A                   |  -85 |  8 | WPA2
+12 | Depa_705                         |  -89 |  1 | WPA+WPA2
+13 | Tenda_4246C0                     |  -89 | 11 | WPA+WPA2
+14 | Depa_707                         |  -91 |  1 | WPA+WPA2
+15 | B1_R1                            |  -92 | 11 | open
+Scan start
+Scan done
+14 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -45 |  1 | WPA2
+2 | AntenaC                          |  -48 |  1 | WPA2
+3 | TP-Link_8704                     |  -50 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -65 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -65 |  6 | WPA2
+7 | Tec-Visitantes                   |  -65 |  6 | open
+8 | AntenaB                          |  -70 |  1 | WPA2
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | IZZI-317A                        |  -88 |  6 | WPA+WPA2
+12 | PD17182A5C20BName71820D040180    |  -92 | 11 | WEP
+13 | B1_R1                            |  -92 | 11 | open
+14 | Barrio_Tec                       |  -94 |  1 | WPA+WPA2
+Scan start
+Scan done
+18 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -45 |  1 | WPA2
+2 | AntenaC                          |  -47 |  1 | WPA2
+3 | TP-Link_8704                     |  -54 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -65 |  6 | WPA2-EAP
+6 | Tec-Visitantes                   |  -66 |  6 | open
+7 | Tec-IoT                          |  -66 |  6 | WPA2
+8 | AntenaB                          |  -69 |  1 | WPA2
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -75 |  6 | WPA2
+11 | IZZI-317A                        |  -88 |  6 | WPA+WPA2
+12 | Tenda_4246C0                     |  -89 | 11 | WPA+WPA2
+13 | Depa_709                         |  -90 |  1 | WPA+WPA2
+14 | Barrio_Tec                       |  -90 |  1 | WPA+WPA2
+15 | Depa_707                         |  -92 |  1 | WPA+WPA2
+16 | Depa_705                         |  -92 |  1 | WPA+WPA2
+17 | PD17182A5C20BName71820D040180    |  -93 | 11 | WEP
+18 | B1_R1                            |  -94 | 11 | open
+Scan start
+Scan done
+14 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -46 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -56 |  1 | WPA2
+5 | Tec                              |  -65 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -65 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -67 |  1 | WPA2
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -74 |  6 | WPA2
+11 | Totalplay-723A                   |  -86 |  8 | WPA2
+12 | Mazda-8ae1ab                     |  -91 |  6 | WPA2
+13 | B1_R1                            |  -91 | 11 | open
+14 | PD17182A5C20BName71820D040180    |  -95 | 11 | WEP
+Scan start
+Scan done
+18 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -46 |  1 | WPA2
+3 | TP-Link_8704                     |  -52 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | AntenaB                          |  -66 |  1 | WPA2
+6 | Tec                              |  -66 |  6 | WPA2-EAP
+7 | Tec-IoT                          |  -66 |  6 | WPA2
+8 | Tec-Visitantes                   |  -66 |  6 | open
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | Depa_707                         |  -90 |  1 | WPA+WPA2
+12 | OnePlus 12R                      |  -90 |  1 | WPA2
+13 | Barrio_Tec                       |  -91 |  1 | WPA+WPA2
+14 | IZZI-317A                        |  -91 |  6 | WPA+WPA2
+15 | PD17182A5C20BName71820D040180    |  -91 | 11 | WEP
+16 | Depa_705                         |  -92 |  1 | WPA+WPA2
+17 | Tenda_4246C0                     |  -92 | 11 | WPA+WPA2
+18 | Iwashautolavado_2.4Gnormal       |  -94 | 10 | WPA+WPA2
+Scan start
+Scan done
+16 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -42 |  1 | WPA2
+2 | AntenaC                          |  -46 |  1 | WPA2
+3 | TP-Link_8704                     |  -50 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -65 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -65 |  6 | WPA2
+7 | Tec-Visitantes                   |  -65 |  6 | open
+8 | WT_CBD98D                        |  -71 |  1 | open
+9 | AntenaB                          |  -71 |  1 | WPA2
+10 | TP-Link_2998                     |  -71 |  6 | WPA2
+11 | OnePlus 12R                      |  -85 |  1 | WPA2
+12 | Totalplay-723A                   |  -87 |  8 | WPA2
+13 | Depa_705                         |  -89 |  1 | WPA+WPA2
+14 | PD17182A5C20BName71820D040180    |  -91 | 11 | WEP
+15 | Tenda_4246C0                     |  -92 | 11 | WPA+WPA2
+16 | B1_R1                            |  -92 | 11 | open
+Scan start
+Scan done
+18 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -42 |  1 | WPA2
+2 | AntenaC                          |  -46 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -65 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -69 |  1 | WPA2
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -72 |  6 | WPA2
+11 | OnePlus 12R                      |  -78 |  6 | WPA2
+12 | Totalplay-723A                   |  -83 |  8 | WPA2
+13 | Tenda_4246C0                     |  -89 | 11 | WPA+WPA2
+14 | Depa_709                         |  -90 |  1 | WPA+WPA2
+15 | PD17182A5C20BName71820D040180    |  -90 | 11 | WEP
+16 | Depa_705                         |  -91 |  1 | WPA+WPA2
+17 | Depa_707                         |  -91 |  1 | WPA+WPA2
+18 | Barrio_Tec                       |  -93 |  1 | WPA+WPA2
+Scan start
+Scan done
+16 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -44 |  1 | WPA2
+2 | AntenaC                          |  -47 |  1 | WPA2
+3 | TP-Link_8704                     |  -51 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | AntenaB                          |  -66 |  1 | WPA2
+6 | Tec                              |  -66 |  6 | WPA2-EAP
+7 | Tec-IoT                          |  -66 |  6 | WPA2
+8 | Tec-Visitantes                   |  -66 |  6 | open
+9 | WT_CBD98D                        |  -67 |  1 | open
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | Tenda_4246C0                     |  -90 | 11 | WPA+WPA2
+12 | Depa_705                         |  -91 |  1 | WPA+WPA2
+13 | Barrio_Tec                       |  -91 |  1 | WPA+WPA2
+14 | PD17182A5C20BName71820D040180    |  -91 | 11 | WEP
+15 | B1_R1                            |  -93 | 11 | open
+16 | Depa_707                         |  -95 |  1 | WPA+WPA2
+Scan start
+Scan done
+12 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -45 |  1 | WPA2
+2 | AntenaC                          |  -47 |  1 | WPA2
+3 | TP-Link_8704                     |  -50 |  2 | WPA2
+4 | AntenaA                          |  -57 |  1 | WPA2
+5 | Tec                              |  -66 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -66 |  6 | WPA2
+7 | Tec-Visitantes                   |  -66 |  6 | open
+8 | AntenaB                          |  -67 |  1 | WPA2
+9 | WT_CBD98D                        |  -69 |  1 | open
+10 | TP-Link_2998                     |  -73 |  6 | WPA2
+11 | Totalplay-723A                   |  -86 |  8 | WPA2
+12 | Depa_705                         |  -92 |  1 | WPA+WPA2
+Scan start
+Scan done
+14 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -46 |  1 | WPA2
+2 | AntenaC                          |  -49 |  1 | WPA2
+3 | TP-Link_8704                     |  -50 |  2 | WPA2
+4 | AntenaA                          |  -58 |  1 | WPA2
+5 | Tec-Visitantes                   |  -66 |  6 | open
+6 | Tec                              |  -66 |  6 | WPA2-EAP
+7 | Tec-IoT                          |  -66 |  6 | WPA2
+8 | AntenaB                          |  -69 |  1 | WPA2
+9 | WT_CBD98D                        |  -71 |  1 | open
+10 | TP-Link_2998                     |  -74 |  6 | WPA2
+11 | Tenda_4246C0                     |  -90 | 11 | WPA+WPA2
+12 | Barrio_Tec                       |  -91 |  1 | WPA+WPA2
+13 | Depa_709                         |  -91 |  1 | WPA+WPA2
+14 | Depa_707                         |  -93 |  1 | WPA+WPA2
+Scan start
+Scan done
+14 networks found
+Nr | SSID                             | RSSI | CH | Encryption
+1 | AntenaD                          |  -46 |  1 | WPA2
+2 | AntenaC                          |  -46 |  1 | WPA2
+3 | TP-Link_8704                     |  -50 |  2 | WPA2
+4 | AntenaA                          |  -58 |  1 | WPA2
+5 | Tec                              |  -65 |  6 | WPA2-EAP
+6 | Tec-IoT                          |  -65 |  6 | WPA2
+7 | Tec-Visitantes                   |  -65 |  6 | open
+8 | AntenaB                          |  -68 |  1 | WPA2
+9 | WT_CBD98D                        |  -70 |  1 | open
+10 | TP-Link_2998                     |  -71 |  6 | WPA2
+11 | Depa_503                         |  -91 |  6 | WPA+WPA2
